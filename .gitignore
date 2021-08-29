@@ -17,3 +17,6 @@
 # Program-dependent files
 list.txt
 log.txt
+
+# Linux build file
+rss-notification
