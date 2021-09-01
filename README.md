@@ -18,3 +18,7 @@ go get -u .
 go build
 ```
 6. OPTIONAL, add the executable to system startup (OS-dependant).
+
+## Credits
+[beeep](https://github.com/gen2brain/beeep) - [BSD 2-Clause](https://github.com/gen2brain/beeep/blob/master/LICENSE)
+[gofeed](https://github.com/mmcdole/gofeed) - [MIT License](https://github.com/mmcdole/gofeed/blob/master/LICENSE)
